@@ -1,22 +1,24 @@
 # Trial Assistant for Meteor Client by 81170
 
-Un asistente inteligente para optimizar el farmeo en las **Trial Chambers** de Minecraft 1.21+.
+An intelligent assistant designed to optimize farming in **Minecraft 1.21+ Trial Chambers**.
 
-## Funcionalidades
-- **ESP inteligente para Vaults:** Destaca las bóvedas normales y ominosas, ayudándote a identificar cuáles te quedan por abrir.
--**Texto flotante para Spawners** También es un mareo encontrar los spawners cercanos debido a que la trial a veces parece un laberinto, asique agrego esto.
-- **Optimización de rendimiento:** Utiliza un sistema de caché por ticks para evitar caídas de FPS durante el combate.
+## Features
 
+- **Smart Vault ESP:** Highlights normal and ominous vaults, helping you identify which ones you still need to open.
+- **Floating Spawner Text:** Finding nearby Trial Spawners can be confusing, especially since Trial Chambers often feel like mazes. This feature makes locating them much easier.
+- **Performance Optimization:** Uses a tick-based caching system to prevent FPS drops during combat.
 
-##Instalacion
-- Descarga el archivo directamente desde los repositorios { } y pegalo en tu carpeta de mods de minecraft donde se encuentra tu mod de Meteor Client. 
-- En el caso del launcher Prism (el cual yo uso), seleccionar la Instancia>Editar>Mods>Añadir archivo>seleccionar el mod (por ejemplo: trial-assistant.jar)
+## Installation
 
+- Download the mod directly from the repository and place the file in your Minecraft `mods` folder, alongside your Meteor Client installation.
+- If you're using the Prism Launcher (which is the launcher I personally use), follow these steps:
+  `Instance > Edit > Mods > Add File` and select the mod file (e.g. `trial-assistant.jar`).
 
+## Requirements
 
-## Requisitos
 - [Fabric Loader](https://fabricmc.net/)
 - [Meteor Client](https://meteorclient.com/)
 
-## Licencia
-Este proyecto está bajo la licencia [GPL-3.0](LICENSE).
+## License
+
+This project is licensed under [GPL-3.0](LICENSE).

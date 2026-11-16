@@ -14,6 +14,10 @@ An intelligent assistant designed to optimize farming in **Minecraft 1.21+ Trial
 - If you're using the Prism Launcher (which is the launcher I personally use), follow these steps:
   `Instance > Edit > Mods > Add File` and select the mod file (e.g. `trial-assistant.jar`).
 
+## Gameplay example:
+https://youtu.be/Q7xLeOxSyj0?si=0vTcz8iZqdFLXeZW
+
+
 ## Requirements
 
 - [Fabric Loader](https://fabricmc.net/)
